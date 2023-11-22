@@ -1,0 +1,60 @@
+{
+    "iphone": {
+        "1": {
+            "title": "MMY I14 Pro MAX Unlocked Cell Phone, Long Battery Life 6.82\" HD Screen Unlocked Phones, 6+256GB Android 13 Smartphone with 128G Memory Card, Dual SIM/Fingerprint Lock/Face ID/GPS (Purple)",
+            "price": "$158.99",
+            "rating": "3.8 out of 5 stars",
+            "reviews": "18 ratings",
+            "availability": "$158.99",
+            "url": "http://amazon.com/MMY-Unlocked-Battery-Smartphone-Fingerprint/dp/B0CC9PXCWF/ref=sr_1_3?keywords=iphone&qid=1700639317&sr=8-3"
+        },
+        "2": {
+            "title": "Tracfone Apple iPhone SE 5G (3rd Generation), 64GB, Black - Prepaid Smartphone (Locked)",
+            "price": "$189.0",
+            "rating": "3.3 out of 5 stars",
+            "reviews": "21 ratings",
+            "availability": "",
+            "url": "http://amazon.com/TracFone-iPhone-SE-5G-Black/dp/B09VY7RXJ9/ref=sr_1_1?keywords=iphone&qid=1700639317&sr=8-1"
+        },
+        "3": {
+            "title": "SAMSUNG Galaxy Z Flip 5 Cell Phone, Unlocked Android Smartphone, 256GB, Compact, Foldable Design, One-Hand Control, Best Selfies, 12MP Camera, Large Cover Screen, US Version, 2023, Lavender",
+            "price": "$799.99",
+            "rating": "4.3 out of 5 stars",
+            "reviews": "45 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/SAMSUNG-Unlocked-Smartphone-Foldable-One-Hand/dp/B0C63GXC5L/ref=sr_1_6?keywords=iphone&qid=1700639317&sr=8-6"
+        },
+        "4": {
+            "title": "xixaomiro i14Pro Max Unlocked 5G Cellphone Android Smartphone Mobile Phone, 8GB RAM, 512GB ROM 1TB Expandable, 6.8'' FHD Screen, 6000mAh Battery, Dual Sim Card, 48+13MP Camera (Blue)",
+            "price": "$129.0",
+            "rating": "3.2 out of 5 stars",
+            "reviews": "41 ratings",
+            "availability": "$129.00",
+            "url": "http://amazon.com/xixaomiro-Unlocked-Cellphone-Smartphone-Expandable/dp/B0C9R3X9W8/ref=sr_1_8?keywords=iphone&qid=1700639317&sr=8-8"
+        },
+        "5": {
+            "title": "luckeu A14 Pro Max 5G Unlocked Cell Phone, 6.9 Inch FHD+ 90Hz Screen Android 13 Smartphone 6000mAh Battery, 6GB+256GB Octa-Core, 64MP/24MP AI Camera Mobile Phone, Dual SIM with GPS/Face ID - White",
+            "price": "$149.99",
+            "rating": "1.0 out of 5 stars",
+            "reviews": "1 rating",
+            "availability": "$149.99",
+            "url": "http://amazon.com/luckeu-Unlocked-Android-Smartphone-Octa-Core/dp/B0CJ91X4WR/ref=sr_1_5?keywords=iphone&qid=1700639317&sr=8-5"
+        },
+        "6": {
+            "title": "Apple iPhone 12 Pro Max, 128GB, Pacific Blue - Fully Unlocked (Renewed)",
+            "price": "$477.09",
+            "rating": "4.2 out of 5 stars",
+            "reviews": "4279 ratings",
+            "availability": "$477.09",
+            "url": "http://amazon.com/Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_2?keywords=iphone&qid=1700639317&sr=8-2"
+        },
+        "7": {
+            "title": "Nothing Phone (2) - 256 GB + 12 GB Ram, Glyph Interface, OS 2.0, 50 MP Dual Camera,OIS, 6.7\u201d LTPO OLED Display, 4700mAh Battery, Water Resistant IP54, LTE, GSM only, Android Phone, White",
+            "price": "$559.0",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "39 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/Nothing-Phone-Camera-Display-White/dp/B0C9LP4WPZ/ref=sr_1_4?keywords=iphone&qid=1700639317&sr=8-4"
+        }
+    }
+}
