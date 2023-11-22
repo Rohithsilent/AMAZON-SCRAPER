@@ -1,0 +1,124 @@
+{
+    "laptop": {
+        "1": {
+            "title": "acer Aspire 3 15.6\" FHD Touchscreen Laptop, AMD Ryzen 5 7520U Quad-Core Processor, 8GB LPDDR5 1TB SSD, WiFi 6, Bluetooth, HD Webcam, USB A&C, 11Hr Battery Life, Steam Blue, Windows 11, GM Accessory",
+            "price": "$449.0",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "13 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/acer-Touchscreen-Quad-Core-Processor-Bluetooth/dp/B0CC5DT5X8/ref=sr_1_5?keywords=laptop&qid=1700637526&sr=8-5"
+        },
+        "2": {
+            "title": "Lenovo V15 Laptop, 15.6\" FHD Display, AMD Ryzen 5 5500U Hexa-core Processor (Beat Intel i7-1065G7), 16GB RAM, 1TB SSD, HDMI, RJ45, Numeric Keypad, Wi-Fi, Windows 11 Pro, Black",
+            "price": "$492.95",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "23 ratings",
+            "availability": "$492.95",
+            "url": "http://amazon.com/Lenovo-V15-Hexa-core-Processor-i7-1065G7/dp/B0CK9FQXWR/ref=sr_1_4?keywords=laptop&qid=1700637526&sr=8-4"
+        },
+        "3": {
+            "title": "ApoloSign Laptop Computer, 15.6 Inch Windows 11 Laptops with 12GB RAM 512GB SSD, Intel Celeron N5095 Quad-Core Processor (Up to 2.8GHz), FHD IPS 1080p Display, Elegant Grey (2023 New)",
+            "price": "$319.68",
+            "rating": "5.0 out of 5 stars",
+            "reviews": "12 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo3Mzc5MzcxMjA4OTczNjkwOjE3MDA2Mzc1MjY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA4NzQwNzI4OTAwMjo6MTo6&url=%2FApoloSign-Computer-Windows-Quad-Core-Processor%2Fdp%2FB0CF5QH6TD%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%253Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CF5QH6TD%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DVR6tY%26pd_rd_wg%3DyIvRp%26pf_rd_p%3Df1ae5671-a572-4614-89aa-2c9d534241e0%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-2-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "4": {
+            "title": "ApoloSign Windows Laptop, 12GB RAM, 512GB SSD(Expandable 1T) 15.6-inch Laptop Computer, 1080P FHD Display, Intel Jasper Lake N5095, Up to 2.8GHz Slim Computer with 2.4G/5G WiFi, 2 Speakers-Gray",
+            "price": "$315.98",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "37 ratings",
+            "availability": "$315.98",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo2MjE1NjA5NTc1MTI4NjkwOjE3MDA2Mzc1MjY6c3BfYXRmOjMwMDA4Mjg3NTg0NzcwMjo6MDo6&url=%2FApoloSign-Expandable-15-6-inch-Computer-Speakers-Gray%2Fdp%2FB0CCRMZDJ3%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dlaptop%26qid%3D1700637526%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+        },
+        "5": {
+            "title": "MSI Katana 17 Gaming Laptop: 13th Gen Intel Core i7, GeForce RTX 4060, 17.3\" 144Hz FHD Display, 32GB DDR5, 1TB NVMe SSD, USB-Type C, Cooler Boost 5, Win11 Home: Black B13VFK-835US",
+            "price": "$1199.99",
+            "rating": "4.3 out of 5 stars",
+            "reviews": "170 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/MSI-Katana-Gaming-Laptop-B13VFK-835US/dp/B0CG7NVGQ2/ref=sr_1_3?keywords=laptop&qid=1700637526&sr=8-3"
+        },
+        "6": {
+            "title": "Morostron 15.6\" Metal Laptop Intel Quad-Core Processor, 16GB RAM 512GB SSD 1080P FHD IPS Display, Windows 11 Laptop Computer with Backlit Keyboard & Touch ID WiFi, Bluetooth 4.2, USB 3.0, Mini HDMI",
+            "price": "$383.99",
+            "rating": "5.0 out of 5 stars",
+            "reviews": "3 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo3Mzc5MzcxMjA4OTczNjkwOjE3MDA2Mzc1MjY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA4NTgyNjQ3NTQwMjo6NDo6&url=%2FMorostron-Quad-Core-Processor-Computer-Bluetooth%2Fdp%2FB0CKW1N2XK%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%253Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CKW1N2XK%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DVR6tY%26pd_rd_wg%3DyIvRp%26pf_rd_p%3Df1ae5671-a572-4614-89aa-2c9d534241e0%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-5-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "7": {
+            "title": "FUNYET 16 Inch Laptop Camputer, Quad-Core Intel Celeron N95 Processors, 16GB RAM 512GB SSD, FHD 1920 x 1080, Supports 180 Angle Opening, Backlit Keyboard, Fingerprint Unlock, Windows 11 Pro",
+            "price": "$279.99",
+            "rating": "4.0 out of 5 stars",
+            "reviews": "8 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo3Mzc5MzcxMjA4OTczNjkwOjE3MDA2Mzc1MjY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA4ODc2MzMwNzAwMjo6Mzo6&url=%2FFUNYET-Camputer-Quad-Core-Processors-Fingerprint%2Fdp%2FB0CGRTXH96%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%253Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CGRTXH96%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DVR6tY%26pd_rd_wg%3DyIvRp%26pf_rd_p%3Df1ae5671-a572-4614-89aa-2c9d534241e0%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-4-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "8": {
+            "title": "ApoloSign Windows Laptop, 12GB RAM, 512GB SSD(Expandable 1T) 15.6-inch Laptop Computer, 1080P FHD Display, Intel Jasper Lake N5095, Up to 2.8GHz Slim Computer with 2.4G/5G WiFi, 2 Speakers-Gray",
+            "price": "$315.98",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "37 ratings",
+            "availability": "$315.98",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo3Mzc5MzcxMjA4OTczNjkwOjE3MDA2Mzc1MjY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA4Mjg3NTg0NzcwMjo6MDo6&url=%2FApoloSign-Expandable-15-6-inch-Computer-Speakers-Gray%2Fdp%2FB0CCRMZDJ3%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%253Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CCRMZDJ3%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DVR6tY%26pd_rd_wg%3DyIvRp%26pf_rd_p%3Df1ae5671-a572-4614-89aa-2c9d534241e0%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "9": {
+            "title": "HP Flagship 17.3 FHD Business Laptop, 10-core Intel i5-1335U (Beat i7-1255U) Up to 4.6GHz, 32GB RAM, 1TB NVMe SSD, Backlit Keyboard, Iris Xe Graphics, Wi-Fi 6, Bluetooth 5.3, Win 11 W/GM Accessory",
+            "price": "$799.99",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "91 ratings",
+            "availability": "$799.99",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo2MjE1NjA5NTc1MTI4NjkwOjE3MDA2Mzc1MjY6c3BfYXRmOjMwMDA0MjI2Mjg1MDUwMjo6MDo6&url=%2FHP-Flagship-Business-Bluetooth-Accessory%2Fdp%2FB0CFXZ1WMZ%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dlaptop%26qid%3D1700637526%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+        },
+        "10": {
+            "title": "Morostron 15.6\" Touch Screen Laptop Computer Windows 11 Intel Quad-Core Processor, 16GB RAM 256GB SSD 1080P FHD, All-Metal Body, Backlit Keyboard, Touch ID, WiFi, WPS, Mini HDMI, USB3.0, Bluetooth4.2",
+            "price": "$319.99",
+            "rating": "4.1 out of 5 stars",
+            "reviews": "15 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo3Mzc5MzcxMjA4OTczNjkwOjE3MDA2Mzc1MjY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDAyOTAzNjE0MDIwMjo6Mjo6&url=%2FMorostron-Quad-Core-Processor-All-Metal-Bluetooth4-2%2Fdp%2FB0CCD6YRCZ%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%253Aamzn1.sym.f1ae5671-a572-4614-89aa-2c9d534241e0%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CCD6YRCZ%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DVR6tY%26pd_rd_wg%3DyIvRp%26pf_rd_p%3Df1ae5671-a572-4614-89aa-2c9d534241e0%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-3-ac07dfd7-5f37-4797-bcf7-0f4905c82761-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "11": {
+            "title": "HP Pavilion Laptop, 15.6\" HD Display, Intel Pentium Quad-Core Processor, 32GB DDR4 RAM, 1TB SSD, Online Conferencing, Webcam, HDMI, Bluetooth, WiFi, Windows 11",
+            "price": "$499.0",
+            "rating": "4.3 out of 5 stars",
+            "reviews": "496 ratings",
+            "availability": "$499.00",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo4ODIxOTI4NTEwNTk2OTA6MTcwMDYzNzUyNjpzcF9zZWFyY2hfdGhlbWF0aWM6MzAwMDEzNzI0MjAwMTAyOjoxOjo&url=%2FHP-Pavilion-Quad-Core-Processor-Conferencing%2Fdp%2FB0B5HQTHYZ%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%253Aamzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0B5HQTHYZ%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DZh1z9%26pd_rd_wg%3DyIvRp%26pf_rd_p%3D9e5188ef-9cc8-48bb-b834-24761033aedf%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "12": {
+            "title": "HP 17.3\" Display Flagship HD+ Laptop, 16GB RAM, 1TB SSD Storage and P500 250GB Portable Storage, Intel Quad Core i3-1125G4(Beat i5-1035G4), Fullsize Keyboard, HDMI, Rapid Charge, Type-C, Windows 11",
+            "price": "$599.99",
+            "rating": "4.5 out of 5 stars",
+            "reviews": "37 ratings",
+            "availability": "$599.99",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo4ODIxOTI4NTEwNTk2OTA6MTcwMDYzNzUyNjpzcF9zZWFyY2hfdGhlbWF0aWM6MzAwMDYxMzc2NzI1MzAyOjowOjo&url=%2FHP-Flagship-Portable-i3-1125G4-i5-1035G4%2Fdp%2FB0CJ34JRSZ%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%253Aamzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0CJ34JRSZ%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DZh1z9%26pd_rd_wg%3DyIvRp%26pf_rd_p%3D9e5188ef-9cc8-48bb-b834-24761033aedf%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "13": {
+            "title": "Lenovo 15.6\" Touchscreen Laptop, Intel Core i5-1135G7 Processor, 20GB RAM, 1TB SSD, IdeaPad 3, 15.6 inch FHD Display, Wi-Fi 6 & Bluetooth 5, Long Battery Life, Windows 11, 1 Year Microsoft 365",
+            "price": "$599.0",
+            "rating": "4.0 out of 5 stars",
+            "reviews": "67 ratings",
+            "availability": "$599.00",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo4ODIxOTI4NTEwNTk2OTA6MTcwMDYzNzUyNjpzcF9zZWFyY2hfdGhlbWF0aWM6MzAwMDg0NDExMDYxOTAyOjoyOjo&url=%2FLenovo-Touchscreen-i5-1135G7-Processor-IdeaPad%2Fdp%2FB0C7X723BP%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%253Aamzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0C7X723BP%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DZh1z9%26pd_rd_wg%3DyIvRp%26pf_rd_p%3D9e5188ef-9cc8-48bb-b834-24761033aedf%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "14": {
+            "title": "HP 15.6\u201d HD Student Laptop, Intel Pentium Silver N5030, 32GB RAM, 1TB PCIe SSD, Intel UHD Graphics, HD Webcam, Numpad, Wi-Fi 5, Bluetooth, Windows 11, Blue, 32GB USB Card",
+            "price": "$469.0",
+            "rating": "4.5 out of 5 stars",
+            "reviews": "150 ratings",
+            "availability": "$469.00",
+            "url": "http://amazon.com/sspa/click?ie=UTF8&spc=MTo4ODIxOTI4NTEwNTk2OTA6MTcwMDYzNzUyNjpzcF9zZWFyY2hfdGhlbWF0aWM6MzAwMDI4MTMyMDY5OTAyOjo0Ojo&url=%2FHP-BrightView-Processor-Graphics-Speakers%2Fdp%2FB0BK9RHB3C%2Fref%3Dsxin_17_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%253Aamzn1.sym.9e5188ef-9cc8-48bb-b834-24761033aedf%26cv_ct_cx%3Dlaptop%26keywords%3Dlaptop%26pd_rd_i%3DB0BK9RHB3C%26pd_rd_r%3Dab0ee398-6534-452b-8c9a-a26fd5c9c19b%26pd_rd_w%3DZh1z9%26pd_rd_wg%3DyIvRp%26pf_rd_p%3D9e5188ef-9cc8-48bb-b834-24761033aedf%26pf_rd_r%3DKNZR9YRB5D29QA9HVPY0%26qid%3D1700637526%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1"
+        },
+        "15": {
+            "title": "ASUS 2023 Vivobook 14 Laptop, 14\u201d FHD (1920 x 1080) Display, Intel Core i5-1235U CPU, Intel Iris X\u1d49 Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1404ZA-AS51",
+            "price": "$399.99",
+            "rating": "4.4 out of 5 stars",
+            "reviews": "221 ratings",
+            "availability": "In Stock",
+            "url": "http://amazon.com/ASUS-Vivobook-i5-1235U-Graphics-F1404ZA-AS51/dp/B0BZQP8S4K/ref=sr_1_6?keywords=laptop&qid=1700637526&sr=8-6"
+        }
+    }
+}
