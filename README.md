@@ -17,7 +17,7 @@ Functionality: scraping multiple amazon web pages for your item, setting a price
 * lxml
 * rich
 
-## How to use (NOTE: -i or --item and -n or --num are required fields):
+## How to use (NOTE: -item or --item and -num or --num are required fields):
 
 ### Get the repository: 
 
@@ -44,16 +44,16 @@ cd Amazon-Scraper
 ### Usage: 
 
 ```
-usage: scrape.py [-h] [-i ITEM [ITEM ...]] [-l LOWER] [-u UPPER] [-n NUM] [-o OUT] [-c]
+usage: scrape.py [-h] [-item ITEM [ITEM ...]] [-min LOWER] [-max UPPER] [-num NUM] [-save OUT] [-c]
 Note: Adding -c to the arguments will cause the program to print the cheapest item at the end of scraping
 ```
 
 #### Individual Commands:
 
-**-i or --item:**
+**-item or --item:**
 
 ```
-py scrape.py -i xbox 
+py scrape.py -item xbox 
 ```
 OR
 ```
@@ -62,10 +62,10 @@ py scrape.py --item xbox
 
 Tells the program that the item you're looking for is a xbox.
 
-**-l or --lower:**
+**-min or --lower:**
 
 ```
-py scrape.py -l 50
+py scrape.py -min 50
 ```
 OR
 ```
@@ -74,10 +74,10 @@ py scrape.py --lower 50
 
 Tells the program that the price minimum (lower bound) is 50.
 
-**-u or --upper:**
+**-max or --upper:**
 
 ```
-py scrape.py -u 500
+py scrape.py -max 500
 ```
 OR
 ```
@@ -86,10 +86,10 @@ py scrape.py --upper 500
 
 Tells the program that the price maximum (upper bound) is 500.
 
-**-n or --num:**
+**-num or --num:**
 
 ```
-py scrape.py -n 10
+py scrape.py -num 10
 ```
 OR
 ```
@@ -106,10 +106,10 @@ py scrape.py -c
 
 Tells the program that you want it to output the cheapest item after it's scraped all links.
 
-**-o or --out:**
+**-save or --out:**
 
 ```
-py scrape.py -o test
+py scrape.py -save test
 ```
 OR
 ```
@@ -123,31 +123,31 @@ Tells the program that you want the product information to be written to a csv/j
 Get all items within a price range (USD):
 
 ```
-py scrape.py -i xbox s -l 200 -u 400 -n 100
+py scrape.py -item xbox s -min 200 -max 400 -num 10
 ```
 
 Get all items above a price (USD):
 
 ```
-py scrape.py -i yoga mats -l 10 -n 150
+py scrape.py -item yoga mats -min 10 -num 15
 ```
 
 Get all items below a price (USD):
 
 ```
-py scrape.py -i playstation -u 400 -n 100
+py scrape.py -item playstation -max 400 -num 10
 ```
 
 Get all items no matter the price:
 
 ```
-py scrape.py -i car tires -n 100
+py scrape.py -item car tires -num 10
 ```
 
 Get the cheapest item of the items scraped and write the information to a csv/json named "gfxcards":
 
 ```
-py scrape.py -i rtx 3090 -n 50 -c -o gfxcards
+py scrape.py -item rtx 3090 -num 50 -c -save gfxcards
 ```
 
 ## CSV: 
