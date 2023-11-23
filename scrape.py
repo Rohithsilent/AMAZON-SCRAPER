@@ -17,10 +17,13 @@ BLUE = '\033[34m'
 RED = '\033[91m'
 GREEN = '\033[92m'
 NORM = '\x1b[0m'
+ORANGE = '\033[38;5;208m'
+PURPLE = '\033[38;5;135m'
+
 tag = "@abc"
 
 # Print the banner to the console
-print(GREEN + """
+print( BLUE + """
    _                            ___                            
   /_\  _ __  __ _ ______ _ _   / __| __ _ _ __ _ _ __  ___ _ _ 
  / _ \| '  \/ _` |_ / _ \ ' \  \__ \/ _| '_/ _` | '_' \/ -_) '_|
