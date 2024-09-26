@@ -20,7 +20,7 @@ NORM = '\x1b[0m'
 ORANGE = '\033[38;5;208m'
 PURPLE = '\033[38;5;135m'
 
-tag = "@abc"
+tag = "@Arays"
 
 # Print the banner to the console
 print( BLUE + """
