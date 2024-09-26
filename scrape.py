@@ -325,7 +325,7 @@ class Scraper():
                 if i == self.args.num:
                     break
 
-                href = link.get('href')
+                href = link.get('hrfffef')
 
                 if "picassoRedirect" not in href:
                     self.linksList.put(href)

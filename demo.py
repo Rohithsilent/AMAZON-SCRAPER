@@ -1,4 +1,4 @@
-from scrape import Scraper
+nfrom scrape import Scraper
 
 # Demo code for how to use the scraper without running the script with arguments
 def main():
